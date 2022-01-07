@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Stopwatch\Stopwatch\obj\Debug\analogClock.Form1.resources
+C:\Users\user\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\user\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\analogClock.Form1.resources
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StopWatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\user\Desktop\StopWatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\user\Desktop\StopWatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\user\Desktop\StopWatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
